@@ -1,0 +1,27 @@
+body{
+    background-color: red;
+    border: solid #000;
+}
+#div-1{
+    margin-top:25px;
+    margin-bottom: 50px;
+    margin-left: 40px;
+    margin-right: 25px;
+    padding-top: 50px;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    padding-right: 40px;
+    border: 10px solid #000;
+    background-color: #342 ;
+    width: 200px;
+    border-radius: 5px;
+}
+
+.text{
+    background-color: #876;
+    color: #fff;
+    margin: 5px;
+    padding: 2px;
+    outline: 10px solid #667788;
+    border-radius: 10px;
+}
